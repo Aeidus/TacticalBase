@@ -11,6 +11,8 @@
     <None Include="..\..\Source\TacticalBaseEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,6 +31,12 @@
     <Filter Include="Source\TacticalBase">
       <UniqueIdentifier>{92A70519-8437-3211-ACF4-70DB6C0AA779}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TacticalBase\PawnTB.cpp">
+      <Filter>Source\TacticalBase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TacticalBase\PawnTB.h">
+      <Filter>Source\TacticalBase</Filter>
+    </ClInclude>
     <None Include="..\..\Source\TacticalBase\TacticalBase.Build.cs">
       <Filter>Source\TacticalBase</Filter>
     </None>
