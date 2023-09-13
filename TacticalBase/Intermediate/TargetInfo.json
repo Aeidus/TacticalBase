@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TacticalBase",
+			"Path": "..\\Source\\TacticalBase.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TacticalBaseEditor",
+			"Path": "..\\Source\\TacticalBaseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

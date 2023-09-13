@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Work\\Personal_Git\\TacticalBase\\TacticalBase\\Source\\TacticalBase\\TacticalBase.Build.cs",
+		"D:\\Work\\Personal_Git\\TacticalBase\\TacticalBase\\Source\\TacticalBase.Target.cs",
+		"D:\\Work\\Personal_Git\\TacticalBase\\TacticalBase\\Source\\TacticalBaseEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.0"
+}
