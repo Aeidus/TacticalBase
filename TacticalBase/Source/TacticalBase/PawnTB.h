@@ -4,6 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Pawn.h"
+#include "Camera/CameraComponent.h"
+#include "GameFramework/SpringArmComponent.h"
 #include "PawnTB.generated.h"
 
 UCLASS()
@@ -19,6 +21,11 @@ public:
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+	//MainPawnCamera
+	UPROPERTY(EditAnywhere)
+	UCameraComponent* Camera;
+	UPROPERTY(EditAnywhere)
+	USpringArmComponent* SpringArm;
 
 public:	
 	// Called every frame

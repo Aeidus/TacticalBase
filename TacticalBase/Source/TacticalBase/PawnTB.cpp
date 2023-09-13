@@ -8,6 +8,14 @@ APawnTB::APawnTB()
 {
 	// Set this pawn to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
+
+	//Create components
+	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("Camera"));
+	SpringArm = CreateDefaultSubobject<USpringArmComponent>(TEXT("SpringArm"));
+
+	//Setup Camera
+	Camera->FieldOfView = 120.f;
+	Camera->SetRelativeLocation(FVector(-100, 0, 50));
 }
 
 

@@ -5,5 +5,5 @@
 
 AGameMode_TB::AGameMode_TB() 
 {
-	//DefaultPawnClass = ;
+	DefaultPawnClass = APawnTB::StaticClass();
 }

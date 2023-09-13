@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
+#include "PawnTB.h"
 #include "GameMode_TB.generated.h"
 
 /**
@@ -16,5 +17,4 @@ class TACTICALBASE_API AGameMode_TB : public AGameModeBase
 
 public:
 	AGameMode_TB();
-	
 };
