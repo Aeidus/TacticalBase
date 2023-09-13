@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\work\\personal_git\\tacticalbase\\tacticalbase\\intermediate\\build\\win64\\unrealeditor\\inc\\tacticalbase\\uht\\gamemode_tb.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\work\\personal_git\\tacticalbase\\tacticalbase\\intermediate\\build\\win64\\x64\\tacticalbaseeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\work\\personal_git\\tacticalbase\\tacticalbase\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tacticalbase\\definitions.tacticalbase.h",
+            "d:\\work\\personal_git\\tacticalbase\\tacticalbase\\source\\tacticalbase\\gamemode_tb.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\work\\personal_git\\tacticalbase\\tacticalbase\\intermediate\\build\\win64\\unrealeditor\\inc\\tacticalbase\\uht\\gamemode_tb.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
