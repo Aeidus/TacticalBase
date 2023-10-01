@@ -31,18 +31,6 @@
     <Filter Include="Source\TacticalBase">
       <UniqueIdentifier>{92A70519-8437-3211-ACF4-70DB6C0AA779}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\TacticalBase\GameMode_TB.cpp">
-      <Filter>Source\TacticalBase</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\TacticalBase\GameMode_TB.h">
-      <Filter>Source\TacticalBase</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\TacticalBase\PawnTB.cpp">
-      <Filter>Source\TacticalBase</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\TacticalBase\PawnTB.h">
-      <Filter>Source\TacticalBase</Filter>
-    </ClInclude>
     <None Include="..\..\Source\TacticalBase\TacticalBase.Build.cs">
       <Filter>Source\TacticalBase</Filter>
     </None>

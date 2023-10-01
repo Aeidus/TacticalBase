@@ -35,10 +35,6 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 "D:\Work\Personal_Git\TacticalBase\TacticalBase\Intermediate\Build\Win64\x64\TacticalBaseEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
-"D:\Work\Personal_Git\TacticalBase\TacticalBase\Intermediate\Build\Win64\x64\UnrealEditor\Development\TacticalBase\GameMode_TB.gen.cpp.obj"
-"D:\Work\Personal_Git\TacticalBase\TacticalBase\Intermediate\Build\Win64\x64\UnrealEditor\Development\TacticalBase\PawnTB.gen.cpp.obj"
-"D:\Work\Personal_Git\TacticalBase\TacticalBase\Intermediate\Build\Win64\x64\UnrealEditor\Development\TacticalBase\TacticalBase.init.gen.cpp.obj"
-"D:\Work\Personal_Git\TacticalBase\TacticalBase\Intermediate\Build\Win64\x64\UnrealEditor\Development\TacticalBase\GameMode_TB.cpp.obj"
 "D:\Work\Personal_Git\TacticalBase\TacticalBase\Intermediate\Build\Win64\x64\UnrealEditor\Development\TacticalBase\PawnTB.cpp.obj"
 "D:\Work\Personal_Git\TacticalBase\TacticalBase\Intermediate\Build\Win64\x64\UnrealEditor\Development\TacticalBase\TacticalBase.cpp.obj"
 "D:\Work\Personal_Git\TacticalBase\TacticalBase\Intermediate\Build\Win64\x64\UnrealEditor\Development\TacticalBase\Default.rc2.res"

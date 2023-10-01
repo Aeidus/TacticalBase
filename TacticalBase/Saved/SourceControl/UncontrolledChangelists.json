@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Work/Personal_Git/TacticalBase/TacticalBase/Content/Levels/L_01_TacticalBase.umap"
+				"D:/Work/Personal_Git/TacticalBase/TacticalBase/Content/Levels/L_01_TacticalBase.umap",
+				"D:/Work/Personal_Git/TacticalBase/TacticalBase/Content/Blueprints/Core/BP_Pawn_TacticalBase.uasset",
+				"D:/Work/Personal_Git/TacticalBase/TacticalBase/Content/Blueprints/Core/BP_GM_TacticalBase.uasset",
+				"D:/Work/Personal_Git/TacticalBase/TacticalBase/Content/Blueprints/Core/BP_PlayerController_TacticalBase.uasset"
 			]
 		}
 	]

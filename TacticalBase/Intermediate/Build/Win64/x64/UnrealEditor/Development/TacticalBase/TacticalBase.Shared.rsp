@@ -256,7 +256,6 @@
 /I "Developer\PhysicsUtilities\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
-/I "D:\Work\Personal_Git\TacticalBase\TacticalBase\Intermediate\Build\Win64\UnrealEditor\Inc\TacticalBase\UHT"
 /I "D:\Work\Personal_Git\TacticalBase\TacticalBase\Source"
 /external:W0
 /external:I "ThirdParty\mimalloc\include"
